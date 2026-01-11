@@ -85,6 +85,7 @@ PLATFORMS
 DEPENDENCIES
   html-proofer
   jekyll
+  github-pages
 
 BUNDLED WITH
    1.17.3
